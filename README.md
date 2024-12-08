@@ -6,7 +6,7 @@
 
 * 💻 Full Stack Web Developer – crafting responsive and dynamic web applications.
 * 🎓 Web Development Student – studying to become a Web Development Technician, graduating in December 2025.
-* 🎂 17 Years Old – always curious, ambitious, and driven to learn.
+* 🎂 18 Years Old – always curious, ambitious, and driven to learn.
 * Soft Skills: Problem-solving, teamwork, adaptability, and effective communication
 
 ## 🛠 Languages and Tools:
